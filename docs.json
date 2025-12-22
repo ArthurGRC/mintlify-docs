@@ -52,7 +52,7 @@
         "groups": [
           {
             "group": "Documentação da API",
-            "openapi": "swagger.yaml"
+            "openapi": "https://petstore3.swagger.io/api/v3/openapi.json"
           }
         ]
       }
