@@ -52,7 +52,7 @@
         "groups": [
           {
             "group": "Documentação da API",
-            "openapi": "https://app.payloop.dev/api-docs/v1/swagger.yaml"
+            "openapi": "swagger.yaml"
           }
         ]
       }
