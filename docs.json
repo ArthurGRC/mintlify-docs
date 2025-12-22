@@ -48,22 +48,11 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Referência da API",
         "groups": [
           {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
+            "group": "Documentação da API",
+            "openapi": "https://app.payloop.dev/api-docs/v1/swagger.yaml"
           }
         ]
       }
