@@ -52,7 +52,7 @@
         "groups": [
           {
             "group": "Documentação da API",
-            "openapi": "https://petstore3.swagger.io/api/v3/openapi.yaml"
+            "openapi": "https://app.payloop.dev/api-docs/v1/swagger.yaml"
           }
         ]
       }
